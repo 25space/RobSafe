@@ -6,7 +6,7 @@ Create by mdct Group (www.mdct-group.com)
 
 
 
-Changelog https://github.com/mdctgroup/RobSafe/blob/master/Enterprise/changelog.md
+Changelog [changelog.md](changelog.md)
 
 More: www.mdct-group.com/robsafe
 

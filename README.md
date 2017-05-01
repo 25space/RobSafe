@@ -11,16 +11,11 @@ Website: www.mdct-group.com/robsafe
 
 RobSafe is a backup software for Windows Systems based on Batch-Files. Available in various editions for different applications and requirements.
 
-
-Enterprise - Business requirements
-
-Classic - Basic File
-
-Home - Optimized for private users
-
-Online - For FTP Server connections
-
-Stick - Easy backup of mobile devices
+ * Enterprise - Business requirements
+ * Classic - Basic File
+ * Home - Optimized for private users
+ * Online - For FTP Server connections
+ * Stick - Easy backup of mobile devices
 
 
 ## License

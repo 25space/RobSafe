@@ -20,7 +20,7 @@ RobSafe is a backup software for Windows Systems based on Batch-Files. Available
 
 ## License
 
-RobSafe is released under the GPL v3 (or later) license, see editions folder.
+RobSafe is released under the GPL v3 (or later) license, see [LICENSE](LICENSE)
 
 
 ## Requirements

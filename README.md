@@ -38,7 +38,7 @@ RobSafe is released under the GPL v3 (or later) license, see [LICENSE](LICENSE)
   * Run the script (Requires often administrative rights)
 
 
-## Support for Piwik
+## Support for RobSafe
 
 For support, visit out support page: [mdct-group.com/support](http://www.mdct-group.com/support)
   
